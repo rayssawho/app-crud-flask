@@ -64,6 +64,14 @@ pip install -r requirements.txt
 ```bash
 python app_crud.py
 ```
+### 5. Finalizar a Aplicação
+No terminal, aperte as teclas CTRL C para finalizar a aplicação.
+
+Para desativar o ambiente virtual, digite deactivate
+no terminal e pressione a tecla enter:
+```bash
+deactivate
+```
 
 ## 🟩 Endpoints
 > **POST** `/users`
